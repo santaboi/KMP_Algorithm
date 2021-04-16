@@ -4,7 +4,7 @@
 **Input**:Any strings and patern are add in the file named input.txt,as below example!  
 **Output**:just simply creat an blank file named ouput.txt  
 **Execute**:Compile "kmp_main2.cpp" file in any IDE,it will read the input file and make corresponding output in output.txt   
-### Notice ➡️  numbers output each rows are the base index of substring found in the string;otherwise,(-1) means substring not_found  
+### Notice ➡️  numbers outputed in each rows are the base index of substring found in the string;otherwise,(-1) means substring not_found  
 
 以下為input.txt內容  
 若testcases的形式如同下面則可正常執行  
