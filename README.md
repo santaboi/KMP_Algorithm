@@ -1,6 +1,6 @@
 # KMP_Algorithm
 *************************************************************************************************************************************************
-an algorithm for finding substring among any strings with real great efficiency  
+## an algorithm for finding substring among any strings with real great efficiency  
 **Input**:Any strings and patern are add in the file named input.txt,as below example!  
 **Output**:just simply creat an blank file named ouput.txt  
 **Execute**:Compile "kmp_main2.cpp" file in any IDE,it will read the input file and make corresponding output in output.txt   
