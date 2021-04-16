@@ -1,0 +1,5 @@
+test cases:1 is 321
+test cases:2 is 413
+test cases:3 is -1
+test cases:4 is -1
+test cases:5 is 122
